@@ -60,7 +60,8 @@
 -     Is a specification, not a language
 -     Created by ECMA, an organization that is responsible for defining standards for programming languages
 -     The first version of ECMAScript was realeased in 1997
--     Starting in 2015, ECMA has been working on annual releases of a newest specification. The first release (2015) was ECMAScript2015, or ES6 for short
+-     Starting in 2015, ECMA has been working on annual releases of a newest specification. 
+-     The first release was ECMAScript2015, or ES6 for short
 -     EC6 defined many new features for JavaScript
 
 #   Let's see it in action!
