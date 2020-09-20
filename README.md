@@ -17,7 +17,7 @@
 
 >   [Variables: Value Types and Reference Types](./js-typesofvariables.js)
 
->   [Reference Types: Objects, Arrays and Functions]()
+>   [Reference Types: Objects, Arrays and Functions](./js-referencetypes.js)
 
 # Introduction
 
@@ -82,5 +82,5 @@
 # Setting Up the Development Environment
 
 -       If you need help with setting up your environment, reference the video (https://www.youtube.com/watch?v=W6NZfCO5SIk) and watch from 4:42 to 5:48
-  >       https://code.visualstudio.com
-  >       https://nodejs.org/en/
+  >       [Download Visual Studio Code](https://code.visualstudio.com)
+  >       [Download Node](https://nodejs.org/en/)
