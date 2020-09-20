@@ -1,10 +1,10 @@
-## Video on YouTube - https://www.youtube.com/watch?v=W6NZfCO5SIk
+## [Video on YouTube](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 ## Thanks to Mosh Hamedani for making the video of which this cheat sheet was based.
 
->       https://www.twitter.com/moshhamedani
->       https://www.codewithmosh.com
->       https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA
+>       [Follow him on Twitter](https://www.twitter.com/moshhamedani)
+>       [His Personal Website](https://www.codewithmosh.com)
+>       [His Youtube Channel](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 
 # JavaScript Tutorial for Beginners: Cheat Sheet
 
