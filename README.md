@@ -47,7 +47,8 @@
 -   Every browser has what we call a JavaScript engine that can execute code
 -   For example, the JavaScript engines in Firefox and Chrome are SpiderMonkey and v8
 -   In 2009, an engineer named Ryan Dahl took the open-source JavaScript engine in Chrome and embedded it inside a C++ program which he named Node
--       Node is a C++ program that includes Google's v8 JavaScript engine. With it, we can run JavaScript code outside of a browser
+-       Node is a C++ program that includes Google's v8 JavaScript engine. 
+-       With it, we can run JavaScript code outside of a browser
 -       Node executes our JavaScript file in a local run-time environment
 -   With JavaScript, we can build the back-end of our web and mobile applications
 
