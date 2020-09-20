@@ -13,13 +13,13 @@
 #   Table of Contents
 >   [Introduction](https://github.com/campbell-jk/javascript-cheat-sheet/blob/master/README.md#introduction)
 
->   [JavaScript Basics](./js-basics.js)
+>   [JavaScript Basics](./1-js-basics.js)
 
->   [Variables 101](./js-variables.js)
+>   [Variables 101](./2-js-variables.js)
 
->   [Variables: Value Types and Reference Types](./js-typesofvariables.js)
+>   [Variables: Value Types and Reference Types](./3-js-typesofvariables.js)
 
->   [Reference Types: Objects, Arrays and Functions](./js-referencetypes.js)
+>   [Reference Types: Objects, Arrays and Functions](./4-js-referencetypes.js)
 
 #   Introduction
 
