@@ -11,7 +11,7 @@
 #   JavaScript Tutorial for Beginners: Cheat Sheet
 
 #   Table of Contents
->   [Introduction](./README.md)
+>   [Introduction](https://github.com/campbell-jk/javascript-cheat-sheet/blob/master/README.md#introduction)
 
 >   [JavaScript Basics](./js-basics.js)
 
